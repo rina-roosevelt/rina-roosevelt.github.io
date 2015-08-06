@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    background-image:url('http://healthsciencedegree.info/wp-content/uploads/2015/01/simple-background-patterns-tumblr.jpg');
+    color: black;
+    font-family: "Lucida Calligraphy", cursive;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+nav {
+    font-size: 30px;
+    text-align: left;
+    display: block;
+    position: absolute;
+}
+
+.row ul li {
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+}
+
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    background: limegreen;
+    color: black;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-family: "Comic Sans MS", cursive, sans-serif;  
+}
+a:hover { 
+    color: green;
+}
+h2 {
+    font-size: 30px;
+    font-family: Papyrus, fantasy; 
+}
+
+img {
+    left: 20px;
+}
+
+#tumblr {
+    width: 50px;
+
+}
+h3 {
+    font-family: ‘Courier New’, Courier, monospace;
+}
+.jumbotron {
+  background-image:url('http://law.unl.edu/styles/wdn-bp3/public/images/promo/space-telecom_2.jpg?itok=ZCcHu5Q9');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
